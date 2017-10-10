@@ -1,16 +1,24 @@
 {
   "messages" : {
-    "-K2ib4H77rj0LYewF7dP" : {
-      "text" : "Hello",
-      "name" : "anonymous"
+    "-Kw4cFVEoQfzdjDhj7mI" : {
+      "name" : "Jianqing Ye",
+      "photoUrl" : "https://lh6.googleusercontent.com/-pNmr2CcMRY8/AAAAAAAAAAI/AAAAAAAAAAo/mrDAlyl8ZkA/photo.jpg",
+      "text" : "hello"
     },
-    "-K2ib5JHRbbL0NrztUfO" : {
-      "text" : "How are you",
-      "name" : "anonymous"
+    "-Kw4cFsiRLuWBf_2lgf1" : {
+      "name" : "Jianqing Ye",
+      "photoUrl" : "https://lh6.googleusercontent.com/-pNmr2CcMRY8/AAAAAAAAAAI/AAAAAAAAAAo/mrDAlyl8ZkA/photo.jpg",
+      "text" : "yo"
     },
-    "-K2ib62mjHh34CAUbide" : {
-      "text" : "I am fine",
-      "name" : "anonymous"
+    "-Kw4cGXa5cHvrNMVHlp6" : {
+      "name" : "Jianqing Ye",
+      "photoUrl" : "https://lh6.googleusercontent.com/-pNmr2CcMRY8/AAAAAAAAAAI/AAAAAAAAAAo/mrDAlyl8ZkA/photo.jpg",
+      "text" : "whats up"
+    },
+    "-Kw4cIyf8c3txg69lGQv" : {
+      "imageUrl" : "gs://friendlychat-355cb.appspot.com/gU2xTIvJLnfK2NClbm6mFAvUThk2/-Kw4cIyf8c3txg69lGQv/lion.jpg",
+      "name" : "Jianqing Ye",
+      "photoUrl" : "https://lh6.googleusercontent.com/-pNmr2CcMRY8/AAAAAAAAAAI/AAAAAAAAAAo/mrDAlyl8ZkA/photo.jpg"
     }
   }
 }
